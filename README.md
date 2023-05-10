@@ -1,5 +1,10 @@
 # 💫 About Me:
-🍂Olá, sou o Bruno Muryllo, um desenvolvedor web/mobile focado no back-end. Atualmente estou trabalhando em um projeto empolgante e utilizando minhas principais linguagens: Javascript, TypeScript.<br><br>🚀Sou apaixonado por programação e sempre busco aprender novas tecnologias para melhorar minhas habilidades e oferecer soluções inovadoras aos meus clientes. Além disso, tenho experiência em outras linguagens e frameworks como Java, Node.js, React e Angular.<br><br>🌱Este é o meu espaço no Github onde compartilho alguns dos meus projetos e códigos. Sinta-se à vontade para explorar e, se tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo.
+
+🍂Hello, I'm Bruno Muryllo, a web/mobile developer focused on the back-end. Currently, I'm working on an exciting project and using my main languages: Javascript, TypeScript.
+
+🚀I'm passionate about programming and always seek to learn new technologies to improve my skills and offer innovative solutions to my clients. In addition, I have experience in other languages and frameworks such as Java, Node.js, React, and Angular.
+
+🌱This is my space on Github where I share some of my projects and codes. Feel free to explore and if you have any questions or suggestions, do not hesitate to contact me.
 
 
 ## 🌐 Socials:
